@@ -26,7 +26,7 @@ enableEmoji = true
   [languages.zh-cn]
     weight = 2
     # 网站语言, 仅在这里 CN 大写
-    # languageCode = "en"
+     languageCode = "zh-CN"
     # 语言名称
     languageName = "繁體中文"
     # 是否包括中日韩文字
